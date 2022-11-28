@@ -67,7 +67,7 @@ rosbag play YOUR_DOWNLOADED.bag
 ```
 
 ### 3.2  RS-LiDAR Rosbag
-Datasets are collected by a RS-Helios LiDAR and  a Xsens IMU.
+Datasets are collected by a RS-Helios LiDAR and an Xsens IMU.
 
 <div align="left">
 <img src="pic/RS_indoor1.png" width=47% />
